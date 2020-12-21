@@ -14,7 +14,7 @@
 
 本镜像不会因为大量占用资源而被封号。
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3a%2f%2fgithub.com%2fbclswl0827%2fv2ray-heroku%2ftree%2fvless)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https%3a%2f%2fgithub.com%2flookoutvision%2fv2ray-heroku%2ftree%2fvless)
 
 ## ENV 设定
 
@@ -24,7 +24,7 @@
 
 ## 注意
 
-WebSocket 路径为 `/`。
+WebSocket 路径为 `/myapp`。
 
 V2Ray 将在部署时自动安装最新版本。
 
